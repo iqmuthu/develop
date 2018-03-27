@@ -1,0 +1,36 @@
+{
+  "name": "react-redux-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for using React & redux with Webpack-2",
+  "main": "ClientEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "./node_modules/.bin/webpack --progress --profile --colors",
+    "dev": "./node_modules/.bin/webpack-dev-server --progress --profile",    
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "es6",
+    "react-router",
+    "webpack-2"
+  ],
+  "author": "Muthuraja Bommaiyan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "radium": "^0.18.1",
+    "react": "^15.3.2",    
+    "react-redux": "5.0.5",
+    "redux": "3.7.1",
+    "redux-thunk": "2.2.0",
+    "classnames": "2.2.5",
+    "react-dom": "^15.3.2",
+    "webpack": "^2.1.0-beta.25",
+    "webpack-dev-server": "^2.1.0-beta.10"
+  }
+}
