@@ -1,0 +1,32 @@
+
+[
+    {
+        "Name" : "Muthu raja",
+        "DOB": "01/10/1988",
+        "Place": "Chennai",
+        "Rating": "A+",
+        "Total":"85"
+    },
+    {
+        "Name" : "Muthu mani",
+        "DOB": "01/05/1995",
+        "Place": "Kanchipuran",
+        "Rating": "C+",
+        "Total":"65"
+    },
+    {
+        "Name" : "Muthu kumar",
+        "DOB": "01/01/1990",
+        "Place": "Thiruchy",
+        "Rating": "B",
+        "Total":"70"
+    },
+    {
+        "Name" : "Muthu raju",
+        "DOB": "01/07/19890",
+        "Place": "Madhurai",
+        "Rating": "B+",
+        "Total":"75"
+    }
+]
+   
