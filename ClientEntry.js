@@ -5,6 +5,10 @@ import { Provider } from 'react-redux';
 import createStoreWithInitialState from './store/index.jsx';
 import { updateDisplayName } from './store/actions/rootName.jsx';
 let appInitState ={
+  studentDetails:{
+    searchValue:'',
+    studentList:[]
+  },
   rootName :{
     displayName :''
   }  
