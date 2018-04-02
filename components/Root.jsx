@@ -1,6 +1,7 @@
 import React from 'react';
 import { updateDisplayName } from '../store/actions/rootName.jsx';
 import { updateSearchName } from '../store/actions/studentActions.jsx'; 
+// Root componnet is a child of root container
 export class RootItem extends React.Component {
     constructor(props) {
         super(props);
